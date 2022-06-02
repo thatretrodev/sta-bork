@@ -1,0 +1,28 @@
+{
+  "name": "sta-bork",
+  "version": "0.0.1",
+  "description": "Auto-borkfuscation of SuperTux Advance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatretrodev/sta-bork.git"
+  },
+  "author": "thatretrodev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatretrodev/sta-bork/issues"
+  },
+  "homepage": "https://github.com/thatretrodev/sta-bork#readme",
+  "keywords": [
+    "sta",
+    "supertuxadvance",
+    "bork",
+    "borkfuscator"
+  ],
+  "dependencies": {
+    "borkfuscator": "^0.0.5"
+  }
+}
