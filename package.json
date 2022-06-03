@@ -23,6 +23,6 @@
     "borkfuscator"
   ],
   "dependencies": {
-    "borkfuscator": "^0.0.5"
+    "borkfuscator": "^0.0.6"
   }
 }
